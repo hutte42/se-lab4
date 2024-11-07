@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+SUCCESS  # TORPEDOS
+SUCCESS
+FAIL #because out of torpedoes
