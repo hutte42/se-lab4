@@ -1,0 +1,4 @@
+# Both stores have ammo. Testing alternating cooling system.
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # 1st fire: fires from primary store
+TORPEDO,SINGLE  # 2nd fire: must alternate and fire from secondary store
