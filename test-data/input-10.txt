@@ -1,0 +1,4 @@
+# Primary has exactly 1 torpedo, Secondary is already empty (0)
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # 1st fire: fires primary. Primary becomes 0, wasPrimaryFiredLast = true.
+TORPEDO,SINGLE  # 2nd fire: tries Secondary (0) -> falls back to Primary, which is also empty (0) -> triggers the missing false branch!

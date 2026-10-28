@@ -1,0 +1,4 @@
+# Primary has ammo, Secondary is completely empty.
+GT4500,5,0,0,0
+TORPEDO,SINGLE  # 1st fire: fires from primary. Primary becomes 4.
+TORPEDO,SINGLE  # 2nd fire: Secondary is next but empty -> switches back to primary and fires!

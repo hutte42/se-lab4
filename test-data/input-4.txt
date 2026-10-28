@@ -1,0 +1,3 @@
+# Primary has 100% failure rate. Secondary is 100% healthy.
+GT4500,5,100,5,0
+TORPEDO,SINGLE  # Primary fires, reports failure, system stops.

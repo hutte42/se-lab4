@@ -1,0 +1,3 @@
+# Both stores have ammo and work perfectly
+GT4500,10,0,10,0
+TORPEDO,ALL  # should fire both
